@@ -10,6 +10,8 @@ The order of flags is, left to right:
 - Enable window mode (does not work in Wine)
 - Enable automatic port forwarding with upnp (does not work in Wine and may cause issues when playing on LAN)
 
+---
+
 - Use alternate red minimap colour
 - Use alternate purple minimap colour
 - Use alternate gray minimap colour
@@ -19,6 +21,8 @@ The order of flags is, left to right:
 - Enable precision scrolling, instead of half-tile scrolling in plain AoC
 - Enable appending to unit groups when holding Shift
 - Activate hotkeys on keydown
+
+---
 
 - Use new savegame file name format `rec.yyyy-mm-dd-hh-mm-ss.mgz`
 - Enable building multi-queue
@@ -32,7 +36,9 @@ The order of flags is, left to right:
 - Store spec addresses [TODO what?]
 - Use system default mouse cursor
 
-- Delink from system volume [TODO what?]
+---
+
+- Delink in-game volume from system volume, the Master Volume in-game slider will not affect your system volume
 - Enable custom chatbox (for Wine)
 - Use low quality environment
 - Use low 1.0c framerate in singleplayer
@@ -45,6 +51,6 @@ The order of flags is, left to right:
 - Enable scenario/rms debug logging
 - Statistics font style [TODO what?]
 - Background audio playback [TODO what?]
-- Disable civilian attack switch [TODO what?]
-- Handle small farm selections [TODO what?]
+- Disable civilian attack switch, for game mods that add custom civilian units. Prevents an issue where they turn into standard villagers in some situations
+- Handle small farm selections, for mods that have 2x2 farms
 - Enable research events in chat in spec mode
