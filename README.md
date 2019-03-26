@@ -9,6 +9,7 @@ This is mostly technical stuff!
  - [Installation Notes](./notes/installation.md)
  - [Multiplayer Notes](./notes/multiplayer.md)
  - [Recorded Game Notes](./notes/recorded-games.md)
+ - [Spectator Notes](./notes/spec.md)
 
 ## License
 
