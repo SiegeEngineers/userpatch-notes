@@ -54,3 +54,6 @@ The order of flags is, left to right:
 38. Disable civilian attack switch, for game mods that add custom civilian units. Prevents an issue where they turn into standard villagers in some situations
 39. Handle small farm selections, for mods that have 2x2 farms
 40. Enable research events in chat in spec mode
+
+## Individual patches
+When you hold the Shift key when clicking the install button in the SetupAoC installer, you will be prompted to confirm every single patch that will be applied to the game. This is error prone but allows getting much more specific than the above if necessary.
