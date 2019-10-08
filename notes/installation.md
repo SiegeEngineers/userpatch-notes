@@ -43,7 +43,7 @@ The order of flags is, left to right:
 27. Use low quality environment
 28. Use low 1.0c framerate in singleplayer
 29. Disable extended hotkeys
-30. Force enable gameplay features like MQ [TODO which exactly?]
+30. Force enable gameplay features: multi-queueing and multi-delete (also known as shift-delete)
 31. Display the 5th 'ore' resource in the top bar
 32. Disable multiplayer anticheat
 33. Set default background mode [TODO what?]
